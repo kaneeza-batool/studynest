@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" font-family="Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="720" height="460" rx="20" fill="#0f1224"/>
+<rect width="720" height="44" rx="20" fill="#181c36"/><rect y="24" width="720" height="20" fill="#181c36"/>
+<circle cx="26" cy="22" r="6" fill="#ff5f57"/><circle cx="46" cy="22" r="6" fill="#febc2e"/><circle cx="66" cy="22" r="6" fill="#28c840"/>
+<rect x="250" y="12" width="220" height="20" rx="10" fill="#0f1224"/>
+<text x="360" y="27" font-size="11" fill="#9aa0bd" text-anchor="middle">app.studynest.io/progress</text>
+<rect x="0" y="44" width="150" height="416" fill="#13162d"/>
+<rect x="18" y="64" width="30" height="30" rx="8" fill="url(#g)"/><text x="58" y="85" font-size="15" font-weight="700" fill="#fff">StudyNest</text>
+<g font-size="12" fill="#9aa0bd"><text x="28" y="140" fill="#9aa0bd">Planner</text><text x="28" y="176" fill="#9aa0bd">Focus timer</text><rect x="12" y="192" width="126" height="30" rx="8" fill="#8b5cf6" opacity=".35"/><text x="28" y="212" fill="#fff">Progress</text><text x="28" y="248" fill="#9aa0bd">Flashcards</text><text x="28" y="284" fill="#9aa0bd">Groups</text></g>
+
+<text x="174" y="82" font-size="20" font-weight="700" fill="#fff">Your progress</text>
+<text x="174" y="102" font-size="12" fill="#9aa0bd">Last 7 days · 14-day streak</text>
+<rect x="174" y="122" width="160" height="80" rx="14" fill="#181c36"/><text x="190" y="152" font-size="11" fill="#9aa0bd">Hours studied</text><text x="190" y="184" font-size="26" font-weight="700" fill="#fff">18.5h</text><rect x="344" y="122" width="160" height="80" rx="14" fill="#181c36"/><text x="360" y="152" font-size="11" fill="#9aa0bd">Tasks done</text><text x="360" y="184" font-size="26" font-weight="700" fill="#fff">42</text><rect x="514" y="122" width="180" height="80" rx="14" fill="#181c36"/><text x="530" y="152" font-size="11" fill="#9aa0bd">Avg. focus</text><text x="530" y="184" font-size="26" font-weight="700" fill="#22c55e">92%</text>
+<rect x="174" y="216" width="520" height="220" rx="14" fill="#181c36"/>
+<text x="194" y="244" font-size="14" font-weight="700" fill="#fff">Daily study time</text>
+<g fill="url(#g)"><rect x="214" y="330" width="44" height="80" rx="8"/><rect x="284" y="290" width="44" height="120" rx="8"/><rect x="354" y="310" width="44" height="100" rx="8"/><rect x="424" y="250" width="44" height="160" rx="8"/><rect x="494" y="280" width="44" height="130" rx="8"/><rect x="564" y="350" width="44" height="60" rx="8" opacity=".6"/><rect x="634" y="320" width="44" height="90" rx="8" opacity=".6"/></g>
+<g font-size="11" fill="#9aa0bd" text-anchor="middle"><text x="236" y="428">M</text><text x="306" y="428">T</text><text x="376" y="428">W</text><text x="446" y="428">T</text><text x="516" y="428">F</text><text x="586" y="428">S</text><text x="656" y="428">S</text></g>
+</svg>

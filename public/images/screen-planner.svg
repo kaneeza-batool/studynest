@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" font-family="Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="720" height="460" rx="20" fill="#0f1224"/>
+<rect width="720" height="44" rx="20" fill="#181c36"/><rect y="24" width="720" height="20" fill="#181c36"/>
+<circle cx="26" cy="22" r="6" fill="#ff5f57"/><circle cx="46" cy="22" r="6" fill="#febc2e"/><circle cx="66" cy="22" r="6" fill="#28c840"/>
+<rect x="250" y="12" width="220" height="20" rx="10" fill="#0f1224"/>
+<text x="360" y="27" font-size="11" fill="#9aa0bd" text-anchor="middle">app.studynest.io/planner</text>
+<rect x="0" y="44" width="150" height="416" fill="#13162d"/>
+<rect x="18" y="64" width="30" height="30" rx="8" fill="url(#g)"/><text x="58" y="85" font-size="15" font-weight="700" fill="#fff">StudyNest</text>
+<g font-size="12" fill="#9aa0bd"><rect x="12" y="120" width="126" height="30" rx="8" fill="#8b5cf6" opacity=".35"/><text x="28" y="140" fill="#fff">Planner</text><text x="28" y="176" fill="#9aa0bd">Focus timer</text><text x="28" y="212" fill="#9aa0bd">Progress</text><text x="28" y="248" fill="#9aa0bd">Flashcards</text><text x="28" y="284" fill="#9aa0bd">Groups</text></g>
+
+<text x="174" y="82" font-size="20" font-weight="700" fill="#fff">This week</text>
+<text x="174" y="102" font-size="12" fill="#9aa0bd">12 sessions planned · 3 exams coming up</text>
+<g font-size="11" fill="#9aa0bd" text-anchor="middle"><text x="210" y="134">Mon</text><text x="292" y="134">Tue</text><text x="374" y="134">Wed</text><text x="456" y="134">Thu</text><text x="538" y="134">Fri</text><text x="620" y="134">Sat</text></g>
+<rect x="174" y="146" width="72" height="70" rx="10" fill="#8b5cf6" opacity=".85"/><text x="184" y="170" font-size="11" fill="#fff" font-weight="700">Biology</text><text x="184" y="186" font-size="10" fill="#fff" opacity=".85">9:00 · 50m</text>
+<rect x="256" y="146" width="72" height="110" rx="10" fill="#06b6d4" opacity=".85"/><text x="266" y="170" font-size="11" fill="#fff" font-weight="700">Calculus</text><text x="266" y="186" font-size="10" fill="#fff" opacity=".85">10:00 · 90m</text>
+<rect x="338" y="186" width="72" height="60" rx="10" fill="#f472b6" opacity=".85"/><text x="348" y="210" font-size="11" fill="#fff" font-weight="700">History</text>
+<rect x="420" y="146" width="72" height="90" rx="10" fill="#22c55e" opacity=".85"/><text x="430" y="170" font-size="11" fill="#fff" font-weight="700">Physics</text>
+<rect x="502" y="216" width="72" height="70" rx="10" fill="#8b5cf6" opacity=".85"/><text x="512" y="240" font-size="11" fill="#fff" font-weight="700">Biology</text>
+<rect x="584" y="146" width="72" height="50" rx="10" fill="#f59e0b" opacity=".85"/><text x="594" y="170" font-size="11" fill="#fff" font-weight="700">Review</text>
+<rect x="174" y="310" width="520" height="120" rx="14" fill="#181c36"/>
+<text x="194" y="340" font-size="14" font-weight="700" fill="#fff">Upcoming deadlines</text>
+<circle cx="200" cy="368" r="6" fill="#f43f5e"/><text x="216" y="372" font-size="12" fill="#e8e9f3">Physics lab report</text><text x="670" y="372" font-size="12" fill="#f43f5e" text-anchor="end">Tomorrow</text>
+<circle cx="200" cy="400" r="6" fill="#f59e0b"/><text x="216" y="404" font-size="12" fill="#e8e9f3">Calculus problem set 4</text><text x="670" y="404" font-size="12" fill="#f59e0b" text-anchor="end">In 3 days</text>
+</svg>
