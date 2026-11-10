@@ -2,7 +2,7 @@
 
 A responsive homepage for **StudyNest**, a concept study-planner app for students. Built with **React 19** and **Vite**.
 
-🔗 **Live site:** studynest-alpha.vercel.app
+🔗 **Live site:** https://studynest-alpha.vercel.app
 
 📦 **Repository:** https://github.com/kaneeza-batool/studynest
 
