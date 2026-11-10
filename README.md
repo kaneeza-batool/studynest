@@ -2,9 +2,9 @@
 
 A responsive homepage for **StudyNest**, a concept study-planner app for students. Built with **React 19** and **Vite**.
 
-🔗 **Live site:** https://YOUR-PROJECT.vercel.app  <!-- replace after your first deploy -->
+🔗 **Live site:** studynest-alpha.vercel.app
 
-📦 **Repository:** https://github.com/YOUR-USERNAME/studynest
+📦 **Repository:** https://github.com/kaneeza-batool/studynest
 
 > StudyNest is a concept project made for a web development assignment. The stats and testimonials are sample content.
 
